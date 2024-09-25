@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parthcodes1(PARTH DUBEY)
-- 👀 I’m interested in cse web dev.
-- 🌱 I’m currently learning c 
-- 📫 How to reach me parthcse9@gmail.com
+- completed C and C++ 
+- 🌱 I’m currently doing DSA in C++
+- 📫 How to reach me parthcse@gmail.com
 
 
 <!---
